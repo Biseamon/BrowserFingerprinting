@@ -1,2 +1,2 @@
 # BrowserFingerprinting
-# Browser Fingerpriting and Server side fingerprinting techniques
+## Browser Fingerpriting and Server side fingerprinting techniques
